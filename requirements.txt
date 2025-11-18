@@ -1,0 +1,16 @@
+# /requirements.txt
+
+# El framework principal de la API
+fastapi
+
+# El servidor que corre la aplicación (ASGI)
+uvicorn[standard]
+
+# El ORM para conectarse a la base de datos
+sqlalchemy
+
+# El conector (driver) para MySQL
+mysqlclient
+
+# Para leer variables del archivo .env
+python-dotenv
