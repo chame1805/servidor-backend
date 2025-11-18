@@ -14,3 +14,5 @@ mysqlclient
 
 # Para leer variables del archivo .env
 python-dotenv
+
+cryptography
